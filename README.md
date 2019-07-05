@@ -39,11 +39,11 @@ After implementing YOLO and FaceNet independently, we integrated them such that 
 Here are some sample outputs:
 
 <img src="/output/image3.jpg" width="55%" />   
-We had some misclassifications too, like the second person from left in the image above, the distance the the shown class was very close to the distance of a true positive.
+(We had some misclassifications too, like the second person from left in the image above, the distance the the shown class was very close to the distance of a true positive.)   
 
+</br>
 <img src="/output/image6.png" width="55%" />    
 The Flash needs a better mask!
 
 
-
-Please download the weights file for YOLO v3 from [here](https://pjreddie.com/media/files/yolov3.weights)
+You can download the weights file for YOLO v3 from [here](https://pjreddie.com/media/files/yolov3.weights)
