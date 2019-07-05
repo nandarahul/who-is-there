@@ -11,7 +11,7 @@ We ran our implementation on images and videos. Here are some sample outputs:
 
 #### Video:
 <a href="http://www.youtube.com/watch?v=WlvFTBsUcKk
-" target="_blank"><img src="http://img.youtube.com/vi/WlvFTBsUcKk/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/WlvFTBsUcKk/1.jpg" 
 alt="Object Detection on a video" width="440" height="340" border="10" /></a>
 
 Please download the weights file for YOLO v3 from [here](https://pjreddie.com/media/files/yolov3.weights)
