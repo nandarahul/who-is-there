@@ -7,5 +7,8 @@ The network has 53 convolutional layers and is also called Darknet-53. Apart fro
 ### Output
 We ran our implementation on images and videos. Here are some sample outputs:
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=WlvFTBsUcKk
+" target="_blank"><img src="http://img.youtube.com/vi/WlvFTBsUcKk/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Please download the weights file for YOLO v3 from [here](https://pjreddie.com/media/files/yolov3.weights)
