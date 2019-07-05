@@ -7,7 +7,7 @@ The network has 53 convolutional layers and is also called Darknet-53. Apart fro
 ### Output
 We ran our implementation on images and videos. Here are some sample outputs:
 
-<img src="/output/det_hicks.jpg" width="45%" />
+<img src="/output/det_hicks.jpg" width="65%" />
 
 #### Video:
 <a href="http://www.youtube.com/watch?v=WlvFTBsUcKk
