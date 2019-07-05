@@ -37,6 +37,7 @@ We tried two methods for using the embeddings to recognize a face:
 # YOLO + FaceNet !
 After implementing YOLO and FaceNet independently, we integrated them such that if any “person” is detected in an image, we pass it through FaceNet. Since FaceNet expects only the face of a person, we use HOG detector from dlib library to extract a face from the image. After passing the face image through FaceNet, if the face is recognized, we display the corresponding name/label of the person in the bounding box instead of the generic label “person”. In order to prevent misclassification of unseen faces, we threshold the distance to a particular class's image before classifying them.   
 Here are some sample outputs:
+
 <img src="/output/image3.jpg" width="55%" />   
 We had some misclassifications too, like the second person from left in the image above, the distance the the shown class was very close to the distance of a true positive.
 
