@@ -1,4 +1,4 @@
-# Object detection using YOLO v3 
+# Object detection using YOLOv3 and Face Recognition using FaceNet
   ### Object Detection
 Image understanding is a hard problem in computer science, even though humans are good at segmenting, detecting the objects and understanding the scene in real time. Object detection is inherently harder than a general image classification due to the possibility of multiple objects in a single image. Earlier methods dealt with running classifiers in different regions of an image and hence were inefficient and hardly of any use in real life.   
 
